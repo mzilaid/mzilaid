@@ -1,7 +1,6 @@
 # Hi, I'm Muhammad Zilaid 👋  
 ### Flutter Developer | Firebase | Swift | Kotlin | REST APIs
-## Experienced Flutter Developer with 3+ years of experience. Strong
-Understanding of OOPS and DSA, delivering optimized code for seamless user experience.
+## Experienced Flutter Developer with 3+ years of experience. Strong Understanding of OOPS and DSA, delivering optimized code for seamless user experience.
 ---
 
 ## 🛠 Tech Stack  
