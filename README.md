@@ -32,7 +32,7 @@ Includes:
 
 ---
 
-### 🕌 Salamly – Muslim Social App] [Play Store](https://play.google.com/store/apps/details?id=com.salamgram.salamgram) | [App Store](https://apps.apple.com/app/idY6446713728)
+### 🕌 Salamly – Muslim Social App [Play Store](https://play.google.com/store/apps/details?id=com.salamgram.salamgram) | [App Store](https://apps.apple.com/app/idY6446713728)
 
 A social platform for Muslims to connect via chat, audio/video calls, posts, reels, and stories.  
 Key Features:
